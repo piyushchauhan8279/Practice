@@ -1,0 +1,8 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/insta\",\"status\":\"201\",\"responseTime\":\"8.566\"}","timestamp":"2025-04-11T11:22:06.901Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/insta\",\"status\":\"200\",\"responseTime\":\"1.101\"}","timestamp":"2025-04-11T11:22:15.548Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/insta/4\",\"status\":\"404\",\"responseTime\":\"1.183\"}","timestamp":"2025-04-11T11:22:21.539Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/insta/1\",\"status\":\"200\",\"responseTime\":\"0.176\"}","timestamp":"2025-04-11T11:22:23.833Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/insta/1\",\"status\":\"500\",\"responseTime\":\"5.195\"}","timestamp":"2025-04-11T11:22:32.478Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/insta/1\",\"status\":\"200\",\"responseTime\":\"2.769\"}","timestamp":"2025-04-11T11:25:18.852Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/insta/1\",\"status\":\"200\",\"responseTime\":\"1.789\"}","timestamp":"2025-04-11T11:25:36.473Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/insta\",\"status\":\"200\",\"responseTime\":\"0.239\"}","timestamp":"2025-04-11T11:25:42.050Z"}
